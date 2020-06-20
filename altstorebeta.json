@@ -1,10 +1,11 @@
 {
-  "name": "AltStore Beta",
-  "identifier": "com.bmth.city.Release",
+  "name": "AltStore",
+  "identifier": "com.rileytestut.AltStore",
+  "sourceURL": "https://cdn.altstore.io/file/altstore/apps.json",
   "apps": [
     {
-      "name": "AltStore",
-      "bundleIdentifier": "com.rileytestut.AltStoreBetaTest",
+      "name": "AltStore Beta",
+      "bundleIdentifier": "com.rileytestut.AltStoreBeta",
       "developerName": "Riley Testut",
       "subtitle": "An alternative App Store for iOS.",
       "version": "1.4b2",
@@ -29,22 +30,102 @@
         {
           "type": "background-audio",
           "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+        }
+      ]
+    },
+    {
+      "name": "Delta Beta",
+      "bundleIdentifier": "com.rileytestut.DeltaBeta",
+      "developerName": "Riley Testut",
+      "subtitle": "Classic games in your pocket.",
+      "version": "1.2b2",
+      "versionDate": "2020-04-27T14:30:00-07:00",
+      "versionDescription": "Delta, meet melonDS! melonDS is a modern Nintendo DS emulator that is more accurate and reliable than DeSmuME. melonDS is actively being worked on and supports many features DeSmuME does not, which is why Delta now includes a melonDS emulator core ðŸŽ‰ melonDS will soon become the default, so please report any issues you find! \n\nNEW FEATURES\nâ€¢ New core based on melonDS for DS emulation (will soon become the default)\nâ€¢ DS settings screen to switch cores and import melonDS BIOS files\nâ€¢ Fast forward DS games\nâ€¢Â Action Replay cheat codes for DS games (melonDS core)\nâ€¢ Boot directly to Nintendo DS home screen and change system settings (melonDS core)\nâ€¢ Access Delta files directory in Files > On My iPhone > Delta\nâ€¢ Support for 8-character NES Game Genie cheat codes\nâ€¢Â Export save files for games from context menu\n\nBUG FIXES\nâ€¢ Fixes graphical issues when playing DS games\nâ€¢ Fixes incorrect formatting when entering cheat codes\nâ€¢ Fixes incorrect game name text color after deleting a game or switching cores\nâ€¢Â Fixes save files being overwritten when previewing games\n\nSwitching to melonDS has been a _big_ transition, so please report any and all bugs you find using the melonDS core. Enjoy!",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/delta-beta.ipa",
+      "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DS games!\n\nDS support currently includes:\nâ€¢Â Playing DS games\nâ€¢ Save States\nâ€¢ Hold Button\n\nFeatures I'm still working on:\nâ€¢ Fast Forward\nâ€¢ Cheats\nâ€¢ Controller skin (using placeholder controller skin for now)\n\nPlease report any issues you find to support@altstore.io. Thanks!",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+      "tintColor": "8A28F7",
+      "size": 18607156,
+      "beta": false,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
+        }
+      ],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
+        "https://user-images.githubusercontent.com/705880/65601942-e5ad4f00-df57-11e9-9255-1463e0296e46.PNG"
+      ,
+        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
+        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
+      ]
+    },
+    {
+      "name": "Clip Beta",
+      "bundleIdentifier": "com.rileytestut.ClipBeta",
+      "subtitle": "Manage your clipboard history with ease.",
+      "developerName": "Riley Testut",
+      "version": "1.1b1",
+      "versionDate": "2020-06-17T12:30:00-07:00",
+      "versionDescription": "This update adds a Custom Keyboard app extension for quick access to clippings when editing text.\n\nTo enable the keyboard, go to Settings > General > Keyboard > Keyboards > Add New Keyboard... and add \"ClipBoard\". Once added, make sure to then enable \"Allow Full Access\" for ClipBoard so it can access your clippings.",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_1_b1.ipa",
+      "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\nâ€¢ Save text, URLs, and images copied to the clipboard.\nâ€¢ Copy, delete, or share any clippings saved to Clip.\nâ€¢ Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+      "tintColor": "EC008C",
+      "size": 462771,
+      "beta": false,
+      "permissions": [
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows Clip to continuously monitor your clipboard in the background."
+        }
+      ],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png",
+        "https://user-images.githubusercontent.com/705880/70830209-8e738980-1da4-11ea-8b3b-6e5fbc78adff.png",
+        "https://user-images.githubusercontent.com/705880/84842227-70a80b00-aff9-11ea-8b04-bedb1f49c4a7.PNG",
+        "https://user-images.githubusercontent.com/705880/84842231-7271ce80-aff9-11ea-9272-e128aeceb95b.PNG"
+      ]
+    },
+    {
+      "name": "Delta Lite Beta",
+      "bundleIdentifier": "com.rileytestut.Delta.LiteBeta",
+      "developerName": "Riley Testut",
+      "subtitle": "The 80s (and 90s) in your pocket.",
+      "version": "1.0b",
+      "versionDate": "2019-09-25",
+      "versionDescription": "Adds support for GBC games in addition to NES.",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/delta-lite-beta.ipa",
+      "localizedDescription": "Delta Lite brings NES and GBC games to iOS.",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+      "tintColor": "8A28F7",
+      "size": 16509767,
+      "beta": false,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
+        }
+      ],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65599562-fe673600-df52-11e9-9cfb-b60a11568baf.PNG",
+        "https://user-images.githubusercontent.com/705880/65599567-01fabd00-df53-11e9-8654-f075c0f32c59.PNG"
       ]
     }
   ],
   "news": [
     {
-      "title": "AltStore 1.4 Beta 2",
-      "identifier": "AltStore Beta",
-      "caption": "Go get AltStore 1.4 Beta 2 now, in the Browse Tab.",
-      "tintColor": "0e3a3c",
-      "imageURL": "https://cdn.discordapp.com/attachments/723501745862344724/723745801628811355/image0.png",
-      "appID": "com.instagram.altstore14b2",
-      "date": "2020-06-19",
+      "title": "Delta Gaining DS Support",
+      "identifier": "delta-ds-support",
+      "caption": "Available this Saturday for patrons, coming soon for everyone else.",
+      "tintColor": "8A28F7",
+      "imageURL": "https://user-images.githubusercontent.com/705880/65603159-0676a400-df5a-11e9-882e-dc5566f4d50a.png",
+      "date": "2019-09-25",
       "notify": false
     }
   ],
   "userInfo": {
-
+    "patreonAccessToken": "325E4QVOJs1X6YXNNd_d7tewb9gckOMqvkPCtDE8Kcc"
   }
 }
