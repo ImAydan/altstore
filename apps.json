@@ -352,7 +352,7 @@
       ]
     },
     { 
-      "name": "OrNET++",
+      "name": "TorBrowser++",
       "bundleIdentifier": "pironlabs.torbrowser.syto203",
       "developerName": "syto203",
       "subtitle": "Enabled Premium Features And VPN.",
@@ -392,6 +392,239 @@
         "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/37/8a/f8/378af812-08ff-626a-0e62-a8e5888be913/pr_source.png/1000x1000bb.png",
         "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/28/fa/ef28fab9-b3b9-c536-3be1-4be65d4cb7fb/pr_source.png/1000x1000bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d1/e9/bc/d1e9bc3d-7e0e-3f7b-8c6a-4b6f8a656e07/pr_source.png/1000x1000bb.png"
+      ]
+    },
+    {
+      "name": "PopcornTime",
+      "bundleIdentifier": "com.hotdog.popcorntime81.ios",
+      "developerName": "PopcornTimeTV",
+      "subtitle": "Free TV Shows and Movies for iOS, with Butter!",
+      "version": "3.2",
+      "versionDate": "2020-04-14",
+      "versionDescription": "This update will require you to uninstall the current PopcornTime and then reinstall.\n\nFixed unknown error among other updates and changes.",
+      "downloadURL": "https://dl.orangedox.com/quarklibrary/PopcornTimeTV/PopcornTimeTV.ipa?dl=1",
+      "localizedDescription": "PopcornTimeTV uses online torrents to find and stream brand-new movies and TV shows for free.\n\nUseful features include:\n\nâ€¢ Finds the best torrents automatically\nâ€¢ Awesome catalog of movies and shows - if it's out there, you can find it\nâ€¢ No restrictions, subscriptions or ads\nâ€¢ The ability to select the quality and subtitles\nâ€¢ Instant streaming or downloads\nâ€¢ Trakt.tv scrobbling and watchlist syncing\n\nIf you want to know more about how PopcornTime works, visit the FAQ: https://popcorntime.app/faq",
+      "iconURL": "https://dl.orangedox.com/quarklibrary/PopcornTimeTV/icon.png?dl=1",
+      "tintColor": "#495bb9",
+      "size": 37879565,
+      "permissions": [
+        {
+          "type": "bluetooth",
+          "usageDescription": "This lets you use PopcornTime with external devices."
+        }
+      ],
+      "screenshotURLs": [
+        "https://dl.orangedox.com/quarklibrary/PopcornTimeTV/image0.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/PopcornTimeTV/image1.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/PopcornTimeTV/image2.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/PopcornTimeTV/image3.png?dl=1"
+      ]
+    },
+    {
+      "name": "Instagram Rocket",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Majd Alfhaily",
+      "subtitle": "An app crafted with love by Instagram users.",
+      "version": "144.0",
+      "versionDate": "2020-06-06",
+      "versionDescription": "Bug fixes and improvements.",
+      "downloadURL": "https://dl.orangedox.com/quarklibrary/Instagram-Rocket/Instagram-Rocket.ipa?dl=1",
+      "localizedDescription": "The Much-Awaited App\n\nRocket for Instagram could be categorized as an Instagram userâ€™s dream tweak, because itâ€™s going to let you do things that the photo and video sharing social network probably doesnâ€™t want you to do, but nevertheless theyâ€™re things you, the user, have wanted for a long time. Rocket not only gives you the features that are missing from Instagram, but it also gives you full control over the app.\n\nIf youâ€™re an Instagram user looking to enhance your abilities within the app and obtain features that no stock user is ever going to get, Rocket for Instagram could be your new best friend.\n\nAmazing Features:\n\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.",
+      "iconURL": "https://dl.orangedox.com/quarklibrary/Instagram-Rocket/icon.png?dl=1",
+      "tintColor": "#c7309b",
+      "size": 65453731,
+			"permissions": [
+				{
+					"type": "photos",
+					"usageDescription": "This lets you share photos from your library and save photos to your Camera Roll."
+				},
+				{
+					"type": "camera",
+					"usageDescription": "This lets you take photos and record video."
+				},
+				{
+					"type": "microphone",
+					"usageDescription": "This lets you record videos with sound."
+				},
+				{
+					"type": "contacts",
+					"usageDescription": "This helps you and others find friends and more. Your contacts will be synced and securely stored on Instagram's servers."
+				},
+				{
+					"type": "location",
+					"usageDescription": "Instagram uses this to make some features work, personalize content, help people find places and more. You can always change this later in your phoneâ€™s settings."
+				},
+				{
+					"type": "faceid",
+					"usageDescription": "This lets you log into Instagram using Apple Face ID."
+				}
+			],
+      "screenshotURLs": [
+        "https://dl.orangedox.com/quarklibrary/Instagram-Rocket/image0.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/Instagram-Rocket/image1.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/Instagram-Rocket/image2.png?dl=1",
+				"https://dl.orangedox.com/quarklibrary/Instagram-Rocket/image3.png?dl=1",
+				"https://dl.orangedox.com/quarklibrary/Instagram-Rocket/image4.png?dl=1",
+				"https://dl.orangedox.com/quarklibrary/Instagram-Rocket/image5.png?dl=1",
+				"https://dl.orangedox.com/quarklibrary/Instagram-Rocket/image6.png?dl=1"
+      ]
+    },
+    {
+      "name": "Instagram Rhino",
+      "bundleIdentifier": "com.burbn.instagram.rhino",
+      "developerName": "Michael Lema",
+      "subtitle": "A powerful tweaked version of Instagram.",
+      "version": "117.0",
+      "versionDate": "2019-10-31",
+      "versionDescription": "Minor improvements.",
+      "downloadURL": "https://dl.orangedox.com/quarklibrary/Instagram-Rhino/Instagram-Rhino.ipa?dl=1",
+      "localizedDescription": "Instagram Rhino is tweaked version of the popular Instagram app. It adds all the features you've wanted, and more.",
+      "iconURL": "https://dl.orangedox.com/quarklibrary/Instagram-Rhino/icon.png?dl=1",
+      "tintColor": "#16c54f",
+      "size": 44502055,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "This lets you share photos from your library and save photos to your Camera Roll."
+        },
+        {
+          "type": "camera",
+          "usageDescription": "This lets you take photos and record video."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "This lets you record videos with sound."
+        },
+        {
+          "type": "contacts",
+          "usageDescription": "This helps you and others find friends and more. Your contacts will be synced and securely stored on Instagram's servers."
+        },
+        {
+          "type": "location",
+          "usageDescription": "Instagram uses this to make some features work, personalize content, help people find places and more. You can always change this later in your phoneâ€™s settings."
+        },
+        {
+          "type": "faceid",
+          "usageDescription": "This lets you log into Instagram using Apple Face ID."
+        }
+      ],
+      "screenshotURLs": [
+        "https://dl.orangedox.com/quarklibrary/Instagram-Rhino/image0.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/Instagram-Rhino/image1.png?dl=1"
+      ]
+    },
+    {
+      "name": "WhatsApp++",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "unlimapps",
+      "subtitle": "WhatsApp but with more amazing features.",
+      "version": "2.19.71",
+      "versionDate": "2019-08-14",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://dl.orangedox.com/quarklibrary/WhatsApp%2B%2B/WhatsApp%2B%2B.ipa?dl=1",
+      "localizedDescription": "Features:\n\nâ€¢ Hide your online and last seen status from others\nâ€¢ Disable read receipts so that others will not know when you read their message\nâ€¢ Disable delivery receipts so that others will know when the message has been delivered to you\nâ€¢ Customize the look and feel of Whatsapp\nâ€¢ Use a full profile picture that doesn't get cropped\nâ€¢ Send more than 10 media at once\nâ€¢ Share music from your device\nâ€¢ Record audio with a single tap rather than having to tap and hold\nâ€¢ Lock WhatsApp with Touch ID or passcode",
+      "iconURL": "https://dl.orangedox.com/quarklibrary/WhatsApp%2B%2B/icon.png?dl=1",
+      "tintColor": "#2ad347",
+      "size": 119535189,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "\u200eThis lets you send photos and videos from your library and save the ones you capture."
+        },
+        {
+          "type": "camera",
+          "usageDescription": "\u200eThis lets you take photos and videos right from within WhatsApp."
+        },
+        {
+          "type": "contacts",
+          "usageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "\u200eThis lets you make calls, send Voice Messages, and record videos with sound."
+        },
+        {
+          "type": "faceid",
+          "usageDescription": "Use Face ID to authenticate on WhatsApp."
+        },
+        {
+          "type": "reminders",
+          "usageDescription": "This lets you set reminders to call your friends back."
+        },
+        {
+          "type": "siri",
+          "usageDescription": "This lets you use Siri to quickly send and read messages and make calls."
+        },
+        {
+          "type": "location",
+          "usageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place."
+        },
+        {
+          "type": "calendars",
+          "usageDescription": "This lets you create events on your calendar."
+        }
+      ],
+      "screenshotURLs": [
+        "https://dl.orangedox.com/quarklibrary/WhatsApp%2B%2B/image0.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/WhatsApp%2B%2B/image1.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/WhatsApp%2B%2B/image2.png?dl=1"
+      ]
+    },
+    {
+      "name": "MediaBox HD",
+      "bundleIdentifier": "mediaboxhd.event.2",
+      "developerName": "MediaBox Team",
+      "subtitle": "The best free streaming app for iOS.",
+      "version": "2.4.9.2",
+      "versionDate": "2020-02-06",
+      "versionDescription": "More subtitles now supported.",
+      "downloadURL": "https://dl.orangedox.com/quarklibrary/MediaBox/MediaBox.ipa?dl=1",
+      "localizedDescription": "The best movie and TV streaming app for iOS.\n\nâ€¢ Uses direct streaming only, No Torrents (peer to peer / P2P)\nâ€¢ Media Box HD is constantly searching all over the web for the best stream from the most relevant sites.\n\nThe Best Features\n\nâ€¢ Discover popular Movies/Shows.\nâ€¢ Supports Chromecast, Roku, FireTV, Smart-TV, Wifi-Sharing.\nâ€¢ Trakt.tv sync\nâ€¢ Real-Debrid supported\nâ€¢ Offline Watching. Download in the background\nâ€¢ Files app support\nâ€¢ VLC-Player support\nâ€¢ Supports subtitles (from these sources: opensubtitles; popcorn-time; subscene; mediaboxhd)\nâ€¢ Customizable themes\n\nThe Best Service\n\nâ€¢ You can request Movies/Shows, Subtitles.\nâ€¢ You can help improve the app by giving us feedback about any problems you're having, and we will update the app ASAP",
+      "iconURL": "https://dl.orangedox.com/quarklibrary/MediaBox/icon.png?dl=1",
+      "tintColor": "#1e1e1e",
+      "size": 57384853,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "This app requires access to the photo library."
+        },
+        {
+          "type": "camera",
+          "usageDescription": "Some ad content may access camera to take picture."
+        },
+        {
+          "type": "bluetooth",
+          "usageDescription": "The app would like to use bluetooth."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "The app would like to use microphone."
+        },
+        {
+          "type": "calendars",
+          "usageDescription": "Some ad content may create a calendar event."
+        },
+        {
+          "type": "motion",
+          "usageDescription": "Some ad content may require access to accelerometer for interactive ad experience."
+        },
+        {
+          "type": "background-fetch",
+          "usageDescription": "The app would like to fetch in the background."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "The app would like to play audio in the background."
+        }
+      ],
+      "screenshotURLs": [
+        "https://dl.orangedox.com/quarklibrary/MediaBox/image0.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/MediaBox/image1.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/MediaBox/image2.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/MediaBox/image3.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/MediaBox/image4.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/MediaBox/image5.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/MediaBox/image6.png?dl=1"
       ]
     },
     {
