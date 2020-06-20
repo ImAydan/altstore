@@ -149,6 +149,93 @@
                 "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen4.png"
       ]
     },
+    {
+      "name": "Crunchyroll++",
+      "bundleIdentifier": "com.crunchyroll.iphone",
+      "developerName": "unlimapps",
+      "subtitle": "The Ad-Free Anime you've been looking for.",
+      "version": "3.5.1",
+      "versionDate": "2019-10-01",
+      "versionDescription": "Optimized for iOS 13.",
+      "downloadURL": "https://dl.orangedox.com/quarklibrary/Crunchyroll%2B%2B/Crunchyroll%2B%2B.ipa?dl=1",
+      "localizedDescription": "- No ads\n- New episodes one hour after airing in Japan\n- The highest watching quality possible",
+      "iconURL": "https://dl.orangedox.com/quarklibrary/Crunchyroll%2B%2B/icon.png?dl=1",
+      "tintColor": "#f47521",
+      "size": 11688173,
+      "permissions": [
+        {
+          "type": "camera",
+          "usageDescription": "Crunchyroll would like to access camera."
+        },
+        {
+          "type": "contacts",
+          "usageDescription": "Crunchyroll would like to access contacts."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "Crunchyroll would like to access microphone."
+        },
+        {
+          "type": "bluetooth",
+          "usageDescription": "This app uses Bluetooth to connect to and share information with accessories and other Apple devices for the purposes of video playback."
+        },
+        {
+          "type": "location",
+          "usageDescription": "Crunchyroll would like to access location."
+        },
+        {
+          "type": "calendars",
+          "usageDescription": "Crunchyroll would like to create calendar events."
+        }
+      ],
+      "screenshotURLs": [
+        "https://dl.orangedox.com/quarklibrary/Crunchyroll%2B%2B/image0.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/Crunchyroll%2B%2B/image1.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/Crunchyroll%2B%2B/image2.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/Crunchyroll%2B%2B/image3.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/Crunchyroll%2B%2B/image4.png?dl=1"
+      ]
+    },
+    {
+      "name": "Duolingo++",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "developerName": "unlimapps",
+      "subtitle": "Learn new languages like a pro.",
+      "version": "6.2.0",
+      "versionDate": "2019-01-22",
+      "versionDescription": "Bug fixes and performance improvements.",
+      "downloadURL": "https://dl.orangedox.com/quarklibrary/Duolingo%2B%2B/Duolingo%2B%2B.ipa?dl=1",
+      "localizedDescription": "Get all the benefits of Duolingo Plus:\n\n- Ad-free learning experience\n- Offline learning\n- Unlimited hearts\n- Unlimited skill test-outs\n- Monthly streak repair",
+      "iconURL": "https://dl.orangedox.com/quarklibrary/Duolingo%2B%2B/icon.png?dl=1",
+      "tintColor": "#78c800",
+      "size": 92016431,
+      "permissions": [
+        {
+          "type": "camera",
+          "usageDescription": "Take a photo to use for your Duolingo profile."
+        },
+        {
+          "type": "photos",
+          "usageDescription": "In order to save screenshots of exercises and to find an existing photo to use for your Duolingo profile."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "Speaking is essential to language learning."
+        },
+        {
+          "type": "speech-recognition",
+          "usageDescription": "Speaking is essential to language learning."
+        }
+      ],
+      "screenshotURLs": [
+        "https://dl.orangedox.com/quarklibrary/Duolingo%2B%2B/image0.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/Duolingo%2B%2B/image1.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/Duolingo%2B%2B/image2.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/Duolingo%2B%2B/image3.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/Duolingo%2B%2B/image4.png?dl=1",
+        "https://dl.orangedox.com/quarklibrary/Duolingo%2B%2B/image5.png?dl=1"
+      ]
+    },
     { 
       "name": "Spotify++",
       "bundleIdentifier": "com.spotify.client",
