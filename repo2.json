@@ -30,7 +30,7 @@
 			]
 		},
 		{
-			"name": "unc0ver",
+			"name": "Unc0ver",
 			"bundleIdentifier": "science.xnu.undecimus",
 			"developerName": "Pwn20wnd & Sam Bingner",
 			"subtitle": "The most advanced jailbreak tool.",
@@ -66,32 +66,6 @@
 				"https://dl.orangedox.com/quarklibrary/Chimera/image0.png?dl=1",
 				"https://dl.orangedox.com/quarklibrary/Chimera/image1.png?dl=1",
 				"https://dl.orangedox.com/quarklibrary/Chimera/image2.png?dl=1"
-      ]
-    },
-		{
-      "name": "iTorrent",
-      "bundleIdentifier": "ru.nonamedude.iTorrent",
-      "developerName": "XITRIX",
-      "subtitle": "Ordinary iOS torrent client app.",
-      "version": "1.8",
-      "versionDate": "2020-04-29",
-      "versionDescription": "What's new:\n\nâ€¢ Most of the application was rewritten from scratch, no more memory leaks\nâ€¢ Significantly improved stability of the app\nâ€¢ Memory management implemented\nâ€¢ Memory allocation for files before downloading\nâ€¢ Libtorrent updated to 1.2.6\nâ€¢ UI improvements, noticeable and not so much\nâ€¢ Added integration with Patreon",
-      "downloadURL": "https://dl.orangedox.com/quarklibrary/iTorrent/iTorrent.ipa?dl=1",
-      "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\nâ€¢ Download in the background\nâ€¢ Sequential download (use VLC to watch films while loading)\nâ€¢ Add torrent files from Share menu (Safari and other apps)\nâ€¢ Add magnet links directly from Safari\nâ€¢ Store files in Files app (iOS 11+)\nâ€¢ File sharing directly from app\nâ€¢ Download torrent by link\nâ€¢ Download torrent by magnet\nâ€¢ Send notification on torrent downloaded\nâ€¢ FTP Server (unstable)\nâ€¢ Select files to download or not\nâ€¢ Change UI to dark theme\n\nNow supporting these localizations:\nâ€¢ English\nâ€¢ Russian\nâ€¢ Turkish",
-      "iconURL": "https://dl.orangedox.com/quarklibrary/iTorrent/icon.png?dl=1",
-      "tintColor": "#e32b3c",
-      "size": 20945778,
-			"permissions": [
-				{
-					"type": "photos",
-					"usageDescription": "Allows iTorrent to save files to Photos app."
-				}
-			],
-      "screenshotURLs": [
-        "https://dl.orangedox.com/quarklibrary/iTorrent/image0.png?dl=1",
-        "https://dl.orangedox.com/quarklibrary/iTorrent/image1.png?dl=1",
-        "https://dl.orangedox.com/quarklibrary/iTorrent/image2.png?dl=1",
-				"https://dl.orangedox.com/quarklibrary/iTorrent/image3.png?dl=1"
       ]
     },
 		{
@@ -230,87 +204,6 @@
         "https://dl.orangedox.com/quarklibrary/RetroArch/image2.png?dl=1",
 				"https://dl.orangedox.com/quarklibrary/RetroArch/image3.png?dl=1",
         "https://dl.orangedox.com/quarklibrary/RetroArch/image4.png?dl=1"
-      ]
-    },
-		{
-      "name": "Play!",
-      "bundleIdentifier": "com.virtualapplications.play",
-      "developerName": "Jean-Philip Desjardins",
-      "subtitle": "PlayStation 2 Games on iOS.",
-      "version": "0.30-ba1598d",
-      "versionDate": "2020-05-05",
-      "versionDescription": "Bug fixes.",
-      "downloadURL": "https://dl.orangedox.com/quarklibrary/Play/Play.ipa?dl=1",
-      "localizedDescription": "Play! is a portable PlayStation2 emulator. The focus of the project is on making PlayStation2 emulation easy and accessible. Just pop in your favorite game's disc and have fun!\n\nâ€¢ No BIOS required. Play! is an high-level emulator.\nâ€¢ Easy configuration. No custom settings to fix specific games.\nâ€¢ Available on many platforms, making sure the experience is the same quality everywhere.",
-      "iconURL": "https://dl.orangedox.com/quarklibrary/Play/icon.png?dl=1",
-      "tintColor": "#5f5fff",
-      "size": 910607,
-      "screenshotURLs": [
-
-      ]
-    },
-		{
-      "name": "Flappy Bird",
-      "bundleIdentifier": "org.brandonplank.flappybird",
-      "developerName": "Brandon Plank",
-      "subtitle": "A revival of the once popular game.",
-      "version": "2.6",
-      "versionDate": "2020-05-27T20:28:00-05:00",
-      "versionDescription": "New\n\nâ€¢ Updated Leaderboard\nâ€¢ Fixed Login bug\nâ€¢ Fixed settings bug",
-      "downloadURL": "https://dl.orangedox.com/quarklibrary/FlappyBird/FlappyBird.ipa?dl=1",
-      "localizedDescription": "This Flappy Bird is a revival of the original Flappy Bird by Dong Nguyen. There are a many new features to enhance gameplay as well!\n\nâ€¢ Tap to flap\nâ€¢ Avoid the hitting the pipes\nâ€¢ Flap for infinity!",
-      "iconURL": "https://dl.orangedox.com/quarklibrary/FlappyBird/icon.png?dl=1",
-      "tintColor": "#49cc48",
-      "size": 85987377,
-      "screenshotURLs": [
-				"https://dl.orangedox.com/quarklibrary/FlappyBird/image0.png?dl=1",
-				"https://dl.orangedox.com/quarklibrary/FlappyBird/image1.png?dl=1",
-				"https://dl.orangedox.com/quarklibrary/FlappyBird/image2.png?dl=1"
-      ]
-    },
-		{
-			"name": "Rewound",
-			"bundleIdentifier": "com.louisanslow.record",
-			"developerName": "Louis Anslow",
-			"subtitle": "Turn your iPhone into an iPod. Classic.",
-			"version": "2019.7",
-			"versionDate": "2019-12-09",
-			"versionDescription": "Small fixes.",
-			"downloadURL": "https://dl.orangedox.com/quarklibrary/Rewound/Rewound.ipa?dl=1",
-			"localizedDescription": "Rewound uses your Apple Music library and displays it in the nostalgic style of an old spin-wheel iPod.",
-			"iconURL": "https://dl.orangedox.com/quarklibrary/Rewound/icon.png?dl=1",
-			"tintColor": "#9e968d",
-			"size": 5628716,
-			"permissions": [
-				{
-					"type": "music",
-					"usageDescription": "Rewound needs access to your music library to control your music."
-				}
-			],
-			"screenshotURLs": [
-				"https://dl.orangedox.com/quarklibrary/Rewound/image0.png?dl=1",
-        "https://dl.orangedox.com/quarklibrary/Rewound/image1.png?dl=1",
-        "https://dl.orangedox.com/quarklibrary/Rewound/image2.png?dl=1",
-				"https://dl.orangedox.com/quarklibrary/Rewound/image3.png?dl=1"
-			]
-		},
-		{
-      "name": "ScummVM",
-      "bundleIdentifier": "org.scummvm.scummvm",
-      "developerName": "ScummVM Team",
-      "subtitle": "Point and click adventures.",
-      "version": "2.1.1",
-      "versionDate": "2020-03-30",
-      "versionDescription": "Bug fixes.",
-      "downloadURL": "https://dl.orangedox.com/quarklibrary/ScummVM/ScummVM.ipa?dl=1",
-      "localizedDescription": "ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games and role-playing games, provided you already have their data files. The clever part about this: ScummVM just replaces the executables shipped with the games, allowing you to play them on systems for which they were never designed!\n\nScummVM supports a huge library of adventures with over 250 games in total. It supports many classics published by legendary studios like LucasArts, Sierra On-Line, Revolution Software, Cyan, Inc. and Westwood Studios. Next to ground-breaking titles like the Monkey Island series, Broken Sword, Myst, Blade Runner and countless other games you will find some really obscure adventures and truly hidden gems to explore.",
-      "iconURL": "https://dl.orangedox.com/quarklibrary/ScummVM/icon.png?dl=1",
-      "tintColor": "#bf6a27",
-      "size": 32260772,
-      "screenshotURLs": [
-				"https://dl.orangedox.com/quarklibrary/ScummVM/image0.png?dl=1",
-				"https://dl.orangedox.com/quarklibrary/ScummVM/image1.png?dl=1",
-				"https://dl.orangedox.com/quarklibrary/ScummVM/image2.png?dl=1"
       ]
     },
 		{
