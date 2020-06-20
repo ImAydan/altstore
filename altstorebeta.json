@@ -1,6 +1,6 @@
 {
   "name": "m0difier's unofficial AltStore Beta repo",
-  "identifier": "com.bmth.city.Demo",
+  "identifier": "com.bmth.city.Release",
   "apps": [
     {
       "name": "AltStore Beta",
