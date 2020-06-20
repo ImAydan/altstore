@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "AltStore Beta",
-      "bundleIdentifier": "com.rileytestut.AltStoreBeta",
+      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
       "developerName": "Riley Testut",
       "subtitle": "An alternative App Store for iOS.",
       "version": "1.4b2",
