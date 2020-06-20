@@ -3,30 +3,6 @@
   "identifier": "com.bmth.city.Demo",
   "apps": [
     {
-      "name": "Unfold++",
-      "bundleIdentifier": "com.lightricks.Enlight-Video",
-      "developerName": "syto203",
-      "subtitle": "Unfold — Stories Editor & Collage Maker",
-      "version": "4.12.3",
-      "versionDate": "2019-06-28T14:30:00-07:00",
-      "versionDescription": "Bug fixes. Updated Unfold to 4.12.3",
-      "downloadURL": "https://dl.orangedox.com/PandaApp/17?dl=1",
-      "localizedDescription": "\n\nUnfold is a toolkit for storytellers. Create beautiful and engaging stories from minimal and elegant templates.\n\nEnables the following templates in Unfold:\n\n• DW1\n• DW2\n• NINE\n• Art\n• RP1\n• RP2\n•FF1\n•FF2\n•JN1\n•CS1\n•CS2\n•CS3\n•Love 2\n\nDoesn't Enable Fonts or Love,Pride and RED templates.",
-      "iconURL": "https://minimaron.com/wp-content/uploads/2019/05/18699426_1914339145473482_2825554124753608796_o.jpg",
-      "tintColor": "95b5d6",
-      "size": 89312385,
-      "screenshotURLs": [
-        "https://i.imgur.com/W2j590N.png",
-	"https://cdn1s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen1.jpg",
-	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen2.jpg",
-	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen3.jpg",
-	"https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen4.jpg",
-	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen5.jpg",
-	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen6.jpg",
-	"https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen7.jpg"
-      ]
-    },
-    {
       "name": "Instagram++",
       "bundleIdentifier": "com.instagram.apprefresh",
       "developerName": "Rocket Team",
@@ -102,7 +78,8 @@
 	"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c2/0d/36/c20d36a4-c4f2-a27d-012d-fceeddea392b/mzl.wqtsgyvi.png/1000x1000bb.png",
 	"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/c3/28/ed/c328ed06-2f1f-3380-1665-68c921553d4c/mzl.ehrowzdv.png/1000x1000bb.png",
 	"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/78/c5/17/78c517e1-21a9-40a6-1163-0dd919136c54/mzl.loxwfgsa.png/1000x1000bb.png",
-	"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/8f/8e/a28f8eaf-a227-3215-5c36-fa8976772c30/mzl.xeupxvot.png/1000x1000bb.png"      ]
+	"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/8f/8e/a28f8eaf-a227-3215-5c36-fa8976772c30/mzl.xeupxvot.png/1000x1000bb.png"
+      ]
     },
     {
       "name": "VK++",
@@ -128,24 +105,6 @@
       ]
     },
     {
-      "name": "Mini Metro",
-      "bundleIdentifier": "com.apple.compilers.l2vm.clang.1_0",
-      "developerName": "Dinosaur Polo Club",
-      "subtitle": "Build a better subway",
-      "version": "1.41",
-      "versionDate": "2020-04-11T14:30:00-07:00",
-      "versionDescription": "Mini Metro is now stopping at Barcelona! Carefully manage your train lines to keep this Mediterranean metropolis moving.",
-      "downloadURL": "https://dl.orangedox.com/PandaApp/8?dl=1",
-      "localizedDescription": "Mini Metro, the sublime subway simulator, now on iPhone and iPad.\n\n\n• Included in the App Store Best of 2016\n• Mac Game of the Year in over 30 countries\n• BAFTA-nominated\n• IGF award-winning\n• IGN Mobile Game of the Year nominee\n• Included in Gamespot's Best Mobile Games of 2016",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/cb/67/7c/cb677c82-d048-ed44-a13a-a5fdb22f1b08/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/1024x1024.jpg",
-      "tintColor": "6592be",
-      "size": 132379023,
-      "screenshotURLs": [
-        "https://images-na.ssl-images-amazon.com/images/I/71M2LPAJWSL.png",
-        "https://pbs.twimg.com/media/Dz8boYtWkAIggb-.jpg"
-      ]
-    },
-    { 
       "name": "Deezer++",
       "bundleIdentifier": "com.deezer.Deezer",
       "developerName": "JulioVerne",
@@ -346,63 +305,6 @@
         "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/37/8a/f8/378af812-08ff-626a-0e62-a8e5888be913/pr_source.png/1000x1000bb.png",
         "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/28/fa/ef28fab9-b3b9-c536-3be1-4be65d4cb7fb/pr_source.png/1000x1000bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d1/e9/bc/d1e9bc3d-7e0e-3f7b-8c6a-4b6f8a656e07/pr_source.png/1000x1000bb.png"
-      ]
-    },
-    {
-      "name": "Chimera",
-      "bundleIdentifier": "com.electrateam.chimera",
-      "developerName": "Electra Team",
-      "subtitle": "Chimera is a jailbreak tool for iOS 12.",
-      "version": "1.4.0",
-      "versionDate": "2020-03-14T00:00:00-00:00",
-      "versionDescription": "Bug fixes and small improvements.",
-      "downloadURL": "https://dl.orangedox.com/PandaApp/14?dl=1",
-      "localizedDescription": "Full-fledged\n\nChimera is the first true iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. Chimera doesn't tamper with user files, making it safer than alternatives.\n\nStable\n\nWe've rewritten Chimera from the ground up to ensure that there's no battery drain, freezing, or crashing. There's simply nothing else like it, and we can't wait for you to see for yourself\n\nModern\n\nChimera comes with a modern package manager, Sileo, featuring a UI made to fit iOS, and packed full of features and speed enhancements to make installing packages a breeze. Rather than sticking to tools built decades ago, it ships with modern system tools designed to take advantage wherever possible..",
-      "iconURL": "https://i.imgur.com/cF9hdzv.png",
-      "tintColor": "C0C0C0",
-      "size": 91350280,
-      "screenshotURLs": [
-		"https://quarklibrary.imfast.io/Chimera/image0.png",
-		"https://quarklibrary.imfast.io/Chimera/image1.png",
-		"https://quarklibrary.imfast.io/Chimera/image2.png"
-      ]
-    },
-    {
-      "name": "iTorrent",
-      "bundleIdentifier": "ru.nonamedude.iTorrent",
-      "developerName": "XITRIX",
-      "subtitle": "Straightforward iOS torrent client app",
-      "version": "1.7.4.1",
-      "versionDate": "2020-03-19T14:30:00-07:00",
-      "versionDescription": "Fixed:\n\n• Background mode not work if zero speed limit disabled\n\nWhat's new:\n\n• Added https protocol support for trackers!\n• FTP server replaced by WebDAV, file sharing is now possible through a web browser\n• Added background stop when downloading at zero speed\n• Clicking on a notification now opens a specific window\n• UI improvements",
-      "downloadURL": "https://dl.orangedox.com/PandaApp/6?dl=1",
-      "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\n• Download in the background\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app (iOS 11+)\n• File sharing directly from app\n• Download torrent by link\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• FTP Server (unstable)\n• Select files to download or not\n• Change UI to dark theme\n\nNow supporting these localizations:\n• English\n• Russian",
-      "iconURL": "https://images.opencollective.com/itorrent/0ec0088/logo/256.png",
-      "tintColor": "e32b3c",
-      "size": 20132659,
-      "screenshotURLs": [
-        "https://quarklibrary.imfast.io/iTorrent/image0.png",
-        "https://quarklibrary.imfast.io/iTorrent/image2.png",
-		"https://quarklibrary.imfast.io/iTorrent/image3.png"
-      ]
-    },
-    {
-      "name": "Power Phone Clean",
-      "bundleIdentifier": "com.appybois.powerphoneclean",
-      "developerName": "Appy Bois",
-      "subtitle": "Storage Full? Clean space and memory with the tap of a button!",
-      "version": "1.0",
-      "versionDate": "2020-04-03T12:00:00-00:00",
-      "versionDescription": "Initial AltStore release!",
-      "downloadURL": "https://dl.orangedox.com/PandaApp5/5?dl=1",
-      "localizedDescription": "Clean your phone, quick and easy!\n\nApple doesn't allow cache cleaning apps, or memory boost apps, but you can have both features now, thanks to the power of AltStore.\n\nFirst, Memory Boost will reclaim some of the memory being used by apps in the background, which makes your phone more responsive.\n\nSecond, Storage Boost will reclaim some of the space being used by temporary (or cached) files of apps, which gives you more room for photos and other things!",
-      "iconURL": "https://appybois.com/altstore/powerphoneclean.jpg",
-      "tintColor": "#27ae60",
-      "size": 7866837,
-      "screenshotURLs": [
-        "https://appybois.com/altstore/screenshots/SS1.png",
-        "https://appybois.com/altstore/screenshots/SS2.png",
-        "https://appybois.com/altstore/screenshots/SS3.png"
       ]
     },
     {
