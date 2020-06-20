@@ -33,7 +33,7 @@
     },
     {
       "name": "AltStore",
-      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+      "bundleIdentifier": "com.rileytestut.AltStoreBetaTest",
       "developerName": "Riley Testut",
       "subtitle": "An alternative App Store for iOS.",
       "version": "1.4b2",
