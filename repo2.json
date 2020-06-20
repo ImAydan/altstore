@@ -172,7 +172,14 @@
 	],
 	"news": [
 		{
-
+      "title": "Get UTM now, a virtual machine made for iOS!",
+       "identifier": "utm-1.0-release",
+       "caption": "UTM has now reached its golden 1.0 release. Get Windows, Linux, and more running natively on iOS.",
+       "tintColor": "#2044cd",
+       "imageURL": "https://dl.orangedox.com/quarklibrary/UTM/news-alt.png?dl=1",
+       "appID": "com.osy86.UTM",
+       "date": "2020-06-19",
+       "notify": false
 		}
 	],
 	"userInfo": {
