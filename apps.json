@@ -40,6 +40,29 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/96/e6/9f/96e69f82-658d-8786-b751-3b168c775e12/mzl.anjpmvof.png/1000x1000bb.png",
         "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/97/8d/ba978d1d-5d52-8916-23b2-34b87c340562/mzl.grtamtoc.png/1000x1000bb.png",
         "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/0e/14/3c0e1420-6f88-aef6-b077-ca6a79cbc9f4/mzl.fplbrgrt.png/1000x1000bb.png"
+			]
+		},
+		{
+      "name": "Chimera",
+      "bundleIdentifier": "com.electrateam.chimera",
+      "developerName": "Electra Team",
+      "subtitle": "A jailbreak tool for iOS 12.",
+      "version": "1.4.0",
+      "versionDate": "2020-03-14",
+      "versionDescription": "Bug fixes and small improvements.",
+      "downloadURL": "https://chimera.sh/downloads/ios/1.4.0-12.0-12.4.ipa",
+      "localizedDescription": "Full-fledged\n\nChimera is the first true iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. Chimera doesn't tamper with user files, making it safer than alternatives.\n\nStable\n\nWe've rewritten Chimera from the ground up to ensure that there's no battery drain, freezing, or crashing. There's simply nothing else like it, and we can't wait for you to see for yourself\n\nModern\n\nChimera comes with a modern package manager, Sileo, featuring a UI made to fit iOS, and packed full of features and speed enhancements to make installing packages a breeze. Rather than sticking to tools built decades ago, it ships with modern system tools designed to take advantage wherever possible.",
+      "iconURL": "https://dl.orangedox.com/quarklibrary/Chimera/icon.png?dl=1",
+      "tintColor": "#33a597",
+      "size": 91350280,
+      "screenshotURLs": [
+				"https://dl.orangedox.com/quarklibrary/Chimera/image0.png?dl=1",
+				"https://dl.orangedox.com/quarklibrary/Chimera/image1.png?dl=1",
+				"https://dl.orangedox.com/quarklibrary/Chimera/image2.png?dl=1"
+      ]
+    },
+		{
+
       ]
     },
     { 
