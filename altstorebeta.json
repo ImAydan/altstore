@@ -1,1 +1,26 @@
+{
+  "name": "m0difier's first repo",
+  "identifier": "com.bmth.city.Demo",
+  "apps": [
+    {
+      "name": "AltStore 1.4b2",
+      "bundleIdentifier": "com.instagram.altstore14b2",
+      "developerName": "Riley Testut",
+      "subtitle": "AltStore 1.4b2",
+      "version": "1.4b2",
+      "versionDate": "2019-06-28T14:30:00-07:00",
+      "versionDescription": "Bug fixes, new features, and AltDaemon support",
+      "downloadURL": "http://www.mediafire.com/file/vkec7w2rahrdvxd/AltStoreBeta.ipa/file",
+      "localizedDescription": "Rocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.",
+      "iconURL": "https://cdn.discordapp.com/attachments/723501745862344724/723745801628811355/image0.png",
+      "tintColor": "0e3a3c",
+      "size": 65383246,
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/723501745862344724/723745802496770078/image2.png",
+    "https://cdn.discordapp.com/attachments/723501745862344724/723745801981001779/image1.png"
+    }
+  ],
+  "userInfo": {
 
+  }
+}
