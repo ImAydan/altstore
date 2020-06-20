@@ -1,0 +1,50 @@
+{
+  "name": "AltStore Beta",
+  "identifier": "com.bmth.city.Release",
+  "apps": [
+    {
+      "name": "AltStore",
+      "bundleIdentifier": "com.rileytestut.AltStoreBetaTest",
+      "developerName": "Riley Testut",
+      "subtitle": "An alternative App Store for iOS.",
+      "version": "1.4b2",
+      "versionDate": "2020-06-12T11:30:00-07:00",
+      "versionDescription": "This update improves the stability of AltDaemon when resigning apps on-device.\n\nFIXES\n- Fixes certificate becoming untrusted after refreshing with AltDaemon*\n- Fixes \"Unknown Error Occured\" when refreshing with AltDaemon*\n- Removes .DS_Store files from AltDaemon.deb to prevent installation conflicts.\n\n*Requires AltDaemon 0.2. To update AltDaemon, update AltStore then export + install AltDaemon again from the Settings tab. The next beta will distribute AltDaemon through Cydia and other package managers.",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/altstore/1_4_b2.ipa",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "tintColor": "018084",
+      "size": 3313626,
+      "beta": false,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "permissions": [
+        {
+          "type": "background-fetch",
+          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "AltStore 1.4 Beta 2",
+      "identifier": "AltStore Beta",
+      "caption": "Go get AltStore 1.4 Beta 2 now, in the Browse Tab.",
+      "tintColor": "0e3a3c",
+      "imageURL": "https://cdn.discordapp.com/attachments/723501745862344724/723745801628811355/image0.png",
+      "appID": "com.instagram.altstore14b2",
+      "date": "2020-06-19",
+      "notify": false
+    }
+  ],
+  "userInfo": {
+
+  }
+}
