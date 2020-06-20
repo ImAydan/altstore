@@ -1,6 +1,6 @@
 {
-  "name": "AltStore",
-  "identifier": "com.rileytestut.AltStore",
+  "name": "AltStoreTest",
+  "identifier": "com.rileytestut.AltStoreTest",
   "sourceURL": "https://cdn.altstore.io/file/altstore/apps.json",
   "apps": [
     {
