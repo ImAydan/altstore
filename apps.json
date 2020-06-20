@@ -567,71 +567,7 @@
       "screenshotURLs": [
         "https://dl.orangedox.com/quarklibrary/WhatsApp%2B%2B/image0.png?dl=1",
         "https://dl.orangedox.com/quarklibrary/WhatsApp%2B%2B/image1.png?dl=1",
-        "https://dl.orangedox.com/quarklibrary/WhatsApp%2B%2B/image2.png?dl=1"
-                        ]
-                },
-                {
-                        "name": "iNDS",
-			"bundleIdentifier": "net.nerd.iNDS",
-			"developerName": "iNDS Team",
-			"subtitle": "Revival of the Nintendo DS emulator for iOS.",
-			"version": "1.10.7",
-			"versionDate": "2020-02-10",
-			"versionDescription": "Version 1.10.7 adds better support for Dark Mode on iOS, thus fixing #129 and #148. Additionally, landscape mode support for modern iPhones (after iPhone X) was improved, fixing #153. Additionally, a bug was fixed in which the status bar would appear in-game and not be dismissable.",
-			"downloadURL": "https://dl.orangedox.com/quarklibrary/iNDS/iNDS.ipa?dl=1",
-			"localizedDescription": "iNDS is a derivation of the previous Nintendo DS emulator apps for iOS: nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. The iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team over time so that pull requests and issues do not sit untouched.\n\nCurrently, emulation is powered by the DeSmuME threaded ARM interpreter and runs at nearly full speed on the iPhone 5 and above. Due to the need to mmap the entire ROM into memory, older devices with only 256MB of RAM are not supported. These devices include the iPod Touch 4, iPad 1, iPhone 3GS, and anything below those devices.",
-			"iconURL": "https://dl.orangedox.com/quarklibrary/iNDS/icon.png?dl=1",
-			"tintColor": "#fc2125",
-			"size": 857669,
-			"permissions": [
-				{
-				"type": "photos",
-				"usageDescription": "Allows iNDS to use images from your Photo Library as game artwork."
-				}
-			],
-			"screenshotURLs": [
-				"https://dl.orangedox.com/quarklibrary/iNDS/image0.png?dl=1",
-				"https://dl.orangedox.com/quarklibrary/iNDS/image1.png?dl=1",
-				"https://dl.orangedox.com/quarklibrary/iNDS/image2.png?dl=1"
-			]
-		},
-		{
-			"name": "Unc0ver",
-			"bundleIdentifier": "science.xnu.undecimus",
-			"developerName": "Pwn20wnd & Sam Bingner",
-			"subtitle": "The most advanced jailbreak tool.",
-			"version": "5.2.0",
-			"versionDate": "2020-06-09",
-			"versionDescription": "* Enable iOS 13.5.5~b1 support\n* Fix a logic bug in disabling auto updates\n* Update bundled Cydia to fix crashes on iOS 13.5 with Hardware Keyboard enabled",
-			"downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v5.2.0/unc0ver_5.2.0.ipa",
-			"localizedDescription": "unc0ver is an advanced jailbreaking tool for iOS devices. Jailbreaking with unc0ver unlocks the true power of your iDevice. Customize the appearance of your device, gain full control over how your device operates, obtain access to hidden features of iOS, and more.\n\nCompatibility:\n* unc0ver supports iOS 11.0 through to iOS 13.5 (Excluding 12.3-12.3.2 and 12.4.2-12.4.5) and now iOS 13.5.5 Beta.\n\nStability:\n* Utilizing the latest stable APT and Mobile Substrate, stability is guaranteed.",
-			"iconURL": "https://dl.orangedox.com/quarklibrary/unc0ver/icon.png?dl=1",
-			"tintColor": "#101216",
-			"size": 43235739,
-			"screenshotURLs": [
-				"https://dl.orangedox.com/quarklibrary/unc0ver/image0.png?dl=1",
-				"https://dl.orangedox.com/quarklibrary/unc0ver/image1.png?dl=1",
-				"https://dl.orangedox.com/quarklibrary/unc0ver/image2.png?dl=1",
-				"https://dl.orangedox.com/quarklibrary/unc0ver/image3.png?dl=1"
-			]
-		},
-                {
-      "name": "Chimera",
-      "bundleIdentifier": "com.electrateam.chimera",
-      "developerName": "Electra Team",
-      "subtitle": "A jailbreak tool for iOS 12.",
-      "version": "1.4.0",
-      "versionDate": "2020-03-14",
-      "versionDescription": "Bug fixes and small improvements.",
-      "downloadURL": "https://chimera.sh/downloads/ios/1.4.0-12.0-12.4.ipa",
-      "localizedDescription": "Full-fledged\n\nChimera is the first true iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. Chimera doesn't tamper with user files, making it safer than alternatives.\n\nStable\n\nWe've rewritten Chimera from the ground up to ensure that there's no battery drain, freezing, or crashing. There's simply nothing else like it, and we can't wait for you to see for yourself\n\nModern\n\nChimera comes with a modern package manager, Sileo, featuring a UI made to fit iOS, and packed full of features and speed enhancements to make installing packages a breeze. Rather than sticking to tools built decades ago, it ships with modern system tools designed to take advantage wherever possible.",
-      "iconURL": "https://dl.orangedox.com/quarklibrary/Chimera/icon.png?dl=1",
-      "tintColor": "#33a597",
-      "size": 91350280,
-      "screenshotURLs": [
-				"https://dl.orangedox.com/quarklibrary/Chimera/image0.png?dl=1",
-				"https://dl.orangedox.com/quarklibrary/Chimera/image1.png?dl=1",
-				"https://dl.orangedox.com/quarklibrary/Chimera/image2.png?dl=1"
+        "https://dl.orangedox.com/quarklibrary/WhatsApp%2B%2B/image2.png?dl=
       ]
     },
     {
