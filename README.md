@@ -20,7 +20,7 @@ Download the iPA from https://raw.githubusercontent.com/m0difier/files/master/Al
  
  - Cydia Impactor Users: Plug your iDevice into your PC and drag and drop the iPA into the application, then input your apple information, idk if you still need an App-Specfic password to put into your apple password, if you do then follow these steps to get one: https://support.apple.com/en-us/HT204397
  
- # Step 3 - Sign into AltStore via your Apple IF and Password.
+ # Step 3 - Sign into AltStore via your Apple ID and Password.
  
  # Step 4 - Adding AltStore Source:
  
