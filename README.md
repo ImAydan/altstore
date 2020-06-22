@@ -6,9 +6,9 @@ Do one of the following:
 
  - Jailbreak your iPhone and add the cydia sources http://tigisoftware.com/cydia/ and https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified then download Filza File Manager and AppSync Unified
 
- - Download AppCake (On Device) https://iphonecake.com/app/
+ - Download AppCake (On Device): https://iphonecake.com/app/
 
- - Download Cydia Impactor (PC Required) http://www.cydiaimpactor.com/
+ - Download Cydia Impactor (PC Required): http://www.cydiaimpactor.com/
 
 # Step 2 - Installing the iPA:
 
