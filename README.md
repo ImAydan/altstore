@@ -27,3 +27,5 @@ Download the iPA from https://raw.githubusercontent.com/m0difier/files/master/Al
  Browse to the "Browse" tab in AltStore 1.4b2 (The iPA you just installed) and add the source: https://raw.githubusercontent.com/m0difier/altstore/master/betas.json
  
  # Step 5 - If you have open app ID slots on your Apple ID then press "FREE" on the beta app you want to get.
+
+# Step 6 - Enjoy :)
