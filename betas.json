@@ -1,6 +1,6 @@
 {
   "name": "AltStore Beta Apps",
-  "identifier": "com.instagram.beta",
+  "identifier": "com.github.m0difier",
   "apps": [
     {
       "name": "AltStore Beta",
@@ -12,14 +12,14 @@
       "versionDescription": "This update improves the stability of AltDaemon when resigning apps on-device.\n\nFIXES\n- Fixes certificate becoming untrusted after refreshing with AltDaemon*\n- Fixes \"Unknown Error Occured\" when refreshing with AltDaemon*\n- Removes .DS_Store files from AltDaemon.deb to prevent installation conflicts.\n\n*Requires AltDaemon 0.2. To update AltDaemon, update AltStore then export + install AltDaemon again from the Settings tab. The next beta will distribute AltDaemon through Cydia and other package managers.",
       "downloadURL": "https://raw.githubusercontent.com/m0difier/Files/master/AltStore%20Beta.ipa",
       "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
-      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "iconURL": "https://raw.githubusercontent.com/m0difier/imagelinks/master/AltStoreIcon.png",
       "tintColor": "018084",
       "size": 3313626,
       "beta": false,
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
-        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+        "https://raw.githubusercontent.com/m0difier/imagelinks/master/AltStoreSS1.png",
+        "https://raw.githubusercontent.com/m0difier/imagelinks/master/AltStoreSS2.png",
+        "https://raw.githubusercontent.com/m0difier/imagelinks/master/AltStoreSS3.png"
       ],
       "permissions": [
         {
@@ -42,7 +42,7 @@
       "versionDescription": "Delta, meet melonDS! melonDS is a modern Nintendo DS emulator that is more accurate and reliable than DeSmuME. melonDS is actively being worked on and supports many features DeSmuME does not, which is why Delta now includes a melonDS emulator core ðŸŽ‰ melonDS will soon become the default, so please report any issues you find! \n\nNEW FEATURES\nâ€¢ New core based on melonDS for DS emulation (will soon become the default)\nâ€¢ DS settings screen to switch cores and import melonDS BIOS files\nâ€¢ Fast forward DS games\nâ€¢Â Action Replay cheat codes for DS games (melonDS core)\nâ€¢ Boot directly to Nintendo DS home screen and change system settings (melonDS core)\nâ€¢ Access Delta files directory in Files > On My iPhone > Delta\nâ€¢ Support for 8-character NES Game Genie cheat codes\nâ€¢Â Export save files for games from context menu\n\nBUG FIXES\nâ€¢ Fixes graphical issues when playing DS games\nâ€¢ Fixes incorrect formatting when entering cheat codes\nâ€¢ Fixes incorrect game name text color after deleting a game or switching cores\nâ€¢Â Fixes save files being overwritten when previewing games\n\nSwitching to melonDS has been a _big_ transition, so please report any and all bugs you find using the melonDS core. Enjoy!",
       "downloadURL": "https://raw.githubusercontent.com/m0difier/Files/master/Delta%20Beta.ipa",
       "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DS games!\n\nDS support currently includes:\nâ€¢Â Playing DS games\nâ€¢ Save States\nâ€¢ Hold Button\n\nFeatures I'm still working on:\nâ€¢ Fast Forward\nâ€¢ Cheats\nâ€¢ Controller skin (using placeholder controller skin for now)\n\nPlease report any issues you find to support@altstore.io. Thanks!",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+      "iconURL": "https://raw.githubusercontent.com/m0difier/imagelinks/master/DeltaBetaIcon.png",
       "tintColor": "8A28F7",
       "size": 18607156,
       "beta": false,
@@ -53,11 +53,11 @@
         }
       ],
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
-        "https://user-images.githubusercontent.com/705880/65601942-e5ad4f00-df57-11e9-9255-1463e0296e46.PNG"
+        "https://raw.githubusercontent.com/m0difier/imagelinks/master/DeltaBetaSS1.png",
+        "https://raw.githubusercontent.com/m0difier/imagelinks/master/DeltaBetaSS2.png"
       ,
-        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
-        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
+        "https://raw.githubusercontent.com/m0difier/imagelinks/master/DeltaBetaSS3.png",
+        "https://raw.githubusercontent.com/m0difier/imagelinks/master/DeltaBetaSS4.png"
       ]
     },
     {
@@ -70,7 +70,7 @@
       "versionDescription": "This update adds a Custom Keyboard app extension for quick access to clippings when editing text.\n\nTo enable the keyboard, go to Settings > General > Keyboard > Keyboards > Add New Keyboard... and add \"ClipBoard\". Once added, make sure to then enable \"Allow Full Access\" for ClipBoard so it can access your clippings.",
       "downloadURL": "https://raw.githubusercontent.com/m0difier/Files/master/Clip%20Beta.ipa",
       "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\nâ€¢ Save text, URLs, and images copied to the clipboard.\nâ€¢ Copy, delete, or share any clippings saved to Clip.\nâ€¢ Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+      "iconURL": "https://raw.githubusercontent.com/m0difier/imagelinks/master/ClipBetaIcon.png",
       "tintColor": "EC008C",
       "size": 462771,
       "beta": false,
@@ -81,10 +81,10 @@
         }
       ],
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png",
-        "https://user-images.githubusercontent.com/705880/70830209-8e738980-1da4-11ea-8b3b-6e5fbc78adff.png",
-        "https://user-images.githubusercontent.com/705880/84842227-70a80b00-aff9-11ea-8b04-bedb1f49c4a7.PNG",
-        "https://user-images.githubusercontent.com/705880/84842231-7271ce80-aff9-11ea-9272-e128aeceb95b.PNG"
+        "https://raw.githubusercontent.com/m0difier/imagelinks/master/ClipBetaSS1.png",
+        "https://raw.githubusercontent.com/m0difier/imagelinks/master/ClipBetaSS2.png",
+        "https://raw.githubusercontent.com/m0difier/imagelinks/master/ClipBetaSS3.PNG",
+        "https://raw.githubusercontent.com/m0difier/imagelinks/master/ClipBetaSS4.PNG"
       ]
     },
     {
@@ -97,7 +97,7 @@
       "versionDescription": "Adds support for GBC games in addition to NES.",
       "downloadURL": "https://raw.githubusercontent.com/m0difier/Files/master/Delta%20Lite%20Beta.ipa",
       "localizedDescription": "Delta Lite brings NES and GBC games to iOS.",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+      "iconURL": "https://raw.githubusercontent.com/m0difier/imagelinks/master/DeltaLiteBetaIcon.png",
       "tintColor": "8A28F7",
       "size": 16509767,
       "beta": false,
@@ -108,8 +108,8 @@
         }
       ],
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65599562-fe673600-df52-11e9-9cfb-b60a11568baf.PNG",
-        "https://user-images.githubusercontent.com/705880/65599567-01fabd00-df53-11e9-8654-f075c0f32c59.PNG"
+        "https://raw.githubusercontent.com/m0difier/imagelinks/master/DeltaLiteBetaSS1.png",
+        "https://raw.githubusercontent.com/m0difier/imagelinks/master/DeltaLiteBetaSS2.png"
       ]
     }
   ],
@@ -119,7 +119,7 @@
       "identifier": "delta-ds-support",
       "caption": "Available this Saturday for patrons, coming soon for everyone else.",
       "tintColor": "8A28F7",
-      "imageURL": "https://user-images.githubusercontent.com/705880/65603159-0676a400-df5a-11e9-882e-dc5566f4d50a.png",
+      "imageURL": "https://raw.githubusercontent.com/m0difier/imagelinks/master/DeltaDSBetaNewsImage.png",
       "date": "2019-09-25",
       "notify": false
     }
