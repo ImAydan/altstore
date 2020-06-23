@@ -115,10 +115,10 @@
   ],
   "news": [
     {
-      "title": "Delta Gaining DS Support",
-      "identifier": "delta-ds-support",
-      "caption": "Available this Saturday for patrons, coming soon for everyone else.",
-      "tintColor": "8A28F7",
+      "title": "Riley Testut's Patron Apps Are Now Free!",
+      "identifier": "free-patron-apps",
+      "caption": "Free Patron Apps",
+      "tintColor": "00FF00",
       "imageURL": "https://raw.githubusercontent.com/m0difier/imagelinks/master/DeltaDSBetaNewsImage.png",
       "date": "2019-09-25",
       "notify": false
