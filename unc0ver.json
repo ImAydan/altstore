@@ -10,7 +10,7 @@
       "version": "5.2.0",
       "versionDate": "2020-06-12T11:30:00-07:00",
       "versionDescription": "Enables iOS 13.5.5~b1 support, Fix a logic bug in disabling auto updates, Updated bundled Cydia to fix crashes on iOS 13.5 with Hardware Keyboard enabled.",
-      "downloadURL": "https://raw.githubusercontent.com/m0difier/Files/master/AltStore%20Beta.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/m0difier/files/master/Unc0ver.ipa",
       "localizedDescription": "Unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.",
       "iconURL": "https://raw.githubusercontent.com/m0difier/imagelinks/master/Unc0verIcon.png",
       "tintColor": "707070",
