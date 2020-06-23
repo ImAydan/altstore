@@ -8,17 +8,13 @@ Do one of the following:
 
  - Download AppCake (On Device): https://iphonecake.com/app/
 
- - Download Cydia Impactor (PC Required): http://www.cydiaimpactor.com/
-
 # Step 2 - Installing the iPA:
 
 Download the iPA from https://raw.githubusercontent.com/m0difier/files/master/AltStore%20Beta.ipa
 
  - Jailbroken Users: Install the iPA via Filza File Manager
  
- - AppCake Users: open the ipa in AppCake app then install it and trust the source. Don't know how to do this? Then visit https://support.apple.com/en-us/HT204460#:~:text=Tap%20Settings%20%3E%20General%20%3E%20Profiles%20or,prompt%20to%20confirm%20your%20choice.
- 
- - Cydia Impactor Users: Plug your iDevice into your PC and drag and drop the iPA into the application, then input your apple information, idk if you still need an App-Specfic password to put into your apple password, if you do then follow these steps to get one: https://support.apple.com/en-us/HT204397
+ - AppCake Users: Open the ipa in AppCake app then install it and trust the source. Don't know how to do this? Then visit https://support.apple.com/en-us/HT204460#:~:text=Tap%20Settings%20%3E%20General%20%3E%20Profiles%20or,prompt%20to%20confirm%20your%20choice.
  
  # Step 3 - Sign into AltStore via your Apple ID and Password.
  
