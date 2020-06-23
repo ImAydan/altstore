@@ -19,15 +19,6 @@
       "screenshotURLs": [
         "https://raw.githubusercontent.com/m0difier/imagelinks/master/Unc0verSS1.png",
         "https://raw.githubusercontent.com/m0difier/imagelinks/master/Unc0verSS2.png"
-      ],
-      "permissions": [
-        {
-          "type": "background-fetch",
-          "usageDescription": "Yes, I think."
-        },
-        {
-          "type": "background-audio",
-          "usageDescription": "Or maybe not, I don't know."
       ]
     }
   ],
