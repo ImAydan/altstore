@@ -6,10 +6,10 @@
       "name": "Unc0ver",
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "pwn20wnd & Sam Bingner",
-      "subtitle": "iOS 11.0 - 13.5.5~1 Jailbreak.",
+      "subtitle": "iOS 11.0 - 13.5.5~b1 Jailbreak.",
       "version": "5.2.0",
       "versionDate": "2020-06-12T11:30:00-07:00",
-      "versionDescription": "Enable iOS 13.5.5~b1 support, Fix a logic bug in disabling auto updates, Update bundled Cydia to fix crashes on iOS 13.5 with Hardware Keyboard enabled.",
+      "versionDescription": "Enables iOS 13.5.5~b1 support, Fix a logic bug in disabling auto updates, Updated bundled Cydia to fix crashes on iOS 13.5 with Hardware Keyboard enabled.",
       "downloadURL": "https://raw.githubusercontent.com/m0difier/Files/master/AltStore%20Beta.ipa",
       "localizedDescription": "Unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.",
       "iconURL": "INSERT LINK HERE",
@@ -34,11 +34,11 @@
   ],
   "news": [
     {
-      "title": "Unc0ver 5.2.0 is OUT!"
-      "identifier": "Unc0ver-iOS13.5.5~1-Support"
-      "caption": "Jailbreak iOS 13.5.5~1 And Earlier.
-      "tintColor": "707070
-      "imageURL": "INSERT LINK HERE
+      "title": "Unc0ver 5.2.0 is OUT!",
+      "identifier": "iOS 11.0 - 13.5.5~b1 Jailbreak",
+      "caption": "\"Jailbreak iOS 11.0 - 13.5.5~b1.",
+      "tintColor": "\"707070",
+      "imageURL": "INSERT LINK HERE",
       "date": "2019-09-25",
       "notify": false
     }
