@@ -12,23 +12,22 @@
       "versionDescription": "Enables iOS 13.5.5~b1 support, Fix a logic bug in disabling auto updates, Updated bundled Cydia to fix crashes on iOS 13.5 with Hardware Keyboard enabled.",
       "downloadURL": "https://raw.githubusercontent.com/m0difier/Files/master/AltStore%20Beta.ipa",
       "localizedDescription": "Unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.",
-      "iconURL": "INSERT LINK HERE",
+      "iconURL": "https://raw.githubusercontent.com/m0difier/imagelinks/master/Unc0verIcon.png",
       "tintColor": "707070",
       "size": 3313626,
       "beta": false,
       "screenshotURLs": [
-        "INSERT LINK HERE",
-        "INSERT LINK HERE",
-        "INSERT LINK HERE"
+        "https://raw.githubusercontent.com/m0difier/imagelinks/master/Unc0verSS1.png",
+        "https://raw.githubusercontent.com/m0difier/imagelinks/master/Unc0verSS2.png"
       ],
       "permissions": [
         {
           "type": "background-fetch",
-          "usageDescription": "INSERT REASON HERE"
+          "usageDescription": "Yes, I think."
         },
         {
           "type": "background-audio",
-          "usageDescription": "INSERT REASON HERE"
+          "usageDescription": "Or maybe not, I don't know."
       ]
     }
   ],
@@ -36,9 +35,9 @@
     {
       "title": "Unc0ver 5.2.0 is OUT!",
       "identifier": "iOS 11.0 - 13.5.5~b1 Jailbreak",
-      "caption": "\"Jailbreak iOS 11.0 - 13.5.5~b1.",
-      "tintColor": "\"707070",
-      "imageURL": "INSERT LINK HERE",
+      "caption": "Jailbreak iOS 11.0 - 13.5.5~b1.",
+      "tintColor": "707070",
+      "imageURL": "https://raw.githubusercontent.com/m0difier/imagelinks/master/Unc0verNewsImage.png",
       "date": "2019-09-25",
       "notify": false
     }
